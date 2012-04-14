@@ -103,7 +103,8 @@ License and Author
 
 Author:: Roberto Gaiser (<rgaiser@mr2tech.com>)
 
-Copyright 2012, MR2 Tech
+Copyright:: 2012, MR2 Tech
+
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
